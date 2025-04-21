@@ -1,0 +1,7 @@
+aws ec2 connection with shell scripting 
+awscli2 was  installed 
+to setup credentials IAM from aws is used 
+by creating user in IAM /attach policies/ec2fullpackage/credentials/create access key/CLI
+run the bash (.sh file)
+aws configure (here write the credentials which are made using IAM )
+at last run the (./.sh) file  
